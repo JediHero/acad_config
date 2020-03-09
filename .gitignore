@@ -1,0 +1,4 @@
+.python-version
+.vscode/settings.json
+tests/__pycache__/__init__.cpython-38.pyc
+tests/__pycache__/test_acad_config.cpython-38-pytest-5.3.5.pyc
